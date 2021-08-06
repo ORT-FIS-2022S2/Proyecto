@@ -1,64 +1,49 @@
-Plantilla para informe académico entrega 1
+# Informe académico entrega 1
+Fecha de entrega: 18-oct-2021
 
+## Repositorio Git
 
-| Identificación
-|-----------
-| Fundamentos de Ingeniería de Software
-M4A - Docente: Alejandro Adorjan
-María González, Juan Rodríguez
-03/05/2021
-https://github.com/FIS-202103/entrega1.git
+Creación y uso de repositorios locales y remotos
 
+Comandos Git ejecutados desde terminal y desde el IDE
 
-# Repositorio Git
+## Versionado
 
-## Creación y uso de repositorios locales y remotos
+Buenas prácticas de versionado
 
-## Comandos Git ejecutados desde terminal y desde el IDE
+Uso de ramas separadas de 'main'
 
+Resumen de commits y evolución del proyecto
 
-# Versionado
+## Elicitación
 
-## Buenas prácticas de versionado
+Evidencia de actividades de investigación
 
-## Uso de ramas separadas de 'main'
+Referencias a fuentes de información
 
-## Resumen de commits y evolución del proyecto
+Caracterización de usuarios: User Personas
 
+Modelo conceptual del problema
 
+## Especificación
 
-# Elicitación
+Definición de requerimientos funcionales y no funcionales
 
-## Evidencia de actividades de investigación
+User Stories / Use Cases detallados
 
-## Referencias a fuentes de información
+Bocetos de IU
 
-## Caracterización de usuarios: User Personas
+## Validación y verificación
 
-## Modelo conceptual del problema
+Verificar la especificación
 
+Validar la solución con personas no involucradas en el proyecto
 
-# Especificación
+## Reflexión
 
-## Definición de requerimientos funcionales y no funcionales
+Detalle del trabajo individual
 
-## User Stories / Use Cases detallados
-
-## Bocetos de IU
-
-
-# Validación y verificación
-
-## Verificar la especificación
-
-## Validar la solución con personas no involucradas en el proyecto
-
-
-# Reflexión
-
-## Detalle del trabajo individual
-
-## Técnicas aplicadas y aprendizajes
+Técnicas aplicadas y aprendizajes
 
 
 
