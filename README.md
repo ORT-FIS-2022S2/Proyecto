@@ -15,11 +15,11 @@ cd ..
 cd interfaz
 npm install
 ```
-Para ejecutar la aplicación y acceder a la interfaz en el navegador:
+Para ejecutar la aplicación y acceder a la interfaz de usuario:
 ```
 cd src
 cd interfaz
-npm run starr
+npm run start
 ```
 Abrir en el navegador `localhost:8080`.
 No cambiar la configuración de puertos.
