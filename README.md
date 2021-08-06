@@ -1,8 +1,8 @@
 # Repositorio plantilla para proyectos FIS
 
 Los informes académicos para cada entrega se realizan en los archivos README.md que están en las carpetas docs (entrega 1) y src (entrega 2).
-* [Informe entrega 1](docs\README.md)
-* [Informe entrega 2](src\README.md)
+* [Informe entrega 1](docs/README.md)
+* [Informe entrega 2](src/README.md)
 
 Instalación
 
