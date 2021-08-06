@@ -1,6 +1,10 @@
-Instalación
+## Instalación
 
-Ejecutar el comando `npm install` en las carpetas src/dominio y src/interfaz:
+Descargar la ultima versión estable de Node.JS de https://nodejs.org/.
+Instalar en la computadora de desarollo.
+
+Abrir la terminal en la carpeta raíz del proyecto.
+Ejecutar el comando `npm install` en las subcarpetas src/dominio y src/interfaz:
 ```
 cd src 
 cd dominio
