@@ -11,7 +11,7 @@ Inicio: 30-ago-2021  Fin: 29-nov-2021
 
 [Instalación](install.md)
 
-[Procedimiento de entregas](proc_entregas.md)
+[Procedimiento de entrega](proc_entrega.md)
 
 Los informes académicos para cada entrega se realizan en los archivos README.md que están en las carpetas docs (entrega 1) y src (entrega 2).
 * [Informe entrega 1](docs/README.md)
