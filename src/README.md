@@ -1,12 +1,5 @@
-Plantilla para informe académico entrega 2
-
-| Identificación
-|-----------
-| Fundamentos de Ingeniería de Software
-M4A - Docente: Alejandro Adorjan
-María González, Juan Rodríguez
-17/06/2021
-https://github.com/FIS-202103/entrega2-gonzalez-rodriguez.git
+Informe académico entrega 2
+Fecha de entrega: 29-nov-2021
 
 # Construcción
 
