@@ -1,7 +1,7 @@
-Informe académico entrega 2
+# Informe académico entrega 2
 Fecha de entrega: 29-nov-2021
 
-# Construcción
+## Construcción
 
 Implementación de funciones principales (sin la necesidad de persistencia de datos)
 
@@ -9,7 +9,7 @@ Configuración de plataforma tecnológica para desarrollo y producción
 
 Documentación del uso de librerías externas (package.json)
 
-# Interfaz de usuario
+## Interfaz de usuario
 
 Interfaz de usuario web / mobile (responsive)
 
@@ -23,7 +23,7 @@ Cumplimiento de estándar de accesibilidad WCAG
 
 Seguir especificación de estilo
 
-# Codificación
+## Codificación
 
 IDE Visual Studio Code: configuración común del equipo
 
@@ -33,7 +33,7 @@ Buenas prácticas de OOP: separación de lógica e interfaz
 
 Análisis estático de código: mostrar reducción de problemas
 
-# Test unitario
+## Test unitario
 
 Test unitarios en Jest
 
@@ -43,7 +43,7 @@ Test unitarios en Jest
 | En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
 A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
 
-# Test de sistema
+## Test de sistema
 
 Realizar test de sistema en un entorno separado del desarrollo
 
@@ -51,7 +51,7 @@ Generar casos de prueba aplicando técnica partición equivalente
 
 Detallar sesiones de prueba exploratoria
 
-# Reporte de issues
+## Reporte de issues
 
 Reportar issues (bugs, improvements, missing features) en GitHub 
 
@@ -65,7 +65,7 @@ Sumarizar número de issues reportados por tipo
 
 Realizar una evaluación global de la calidad
 
-# Reflexión
+## Reflexión
 
 Detalle del trabajo individual
 
