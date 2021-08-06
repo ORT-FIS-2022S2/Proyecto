@@ -46,6 +46,10 @@ Test unitarios en Jest
 
 100% cobertura en clases de dominio
 
+
+| En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
+A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
+
 # Test de sistema
 
 Realizar test de sistema en un entorno separado del desarrollo
@@ -63,6 +67,8 @@ Aplicar buenas prácticas de reporte de issues
 Definir labels para tipos de issue y niveles de severidad
 
 Dejar issues abiertos para correcciones o mejoras futuras
+
+Sumarizar número de issues reportados por tipo
 
 Realizar una evaluación global de la calidad
 
