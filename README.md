@@ -7,8 +7,11 @@ ID M4A - Docente: Alejandro Adorjan
 Estudiantes: 
 
 Lectura: 30-ago-2021
+
 Entrega 1: 18-oct-2021
+
 Code freeze: 22-nov-2021
+
 Entrega 2: 29-nov-2021
 
 [Letra del proyecto](letra.md)
