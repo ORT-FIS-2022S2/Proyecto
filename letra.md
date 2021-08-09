@@ -20,6 +20,12 @@ Trabajo individual: detallar las actividades realizadas por cada integrante del 
 
 Defensa oral: realizar una presentación oral de 10 minutos que presente las principales técnicas aplicadas y aprendizajes. 
 
+### Presentación en clase
+Cada equipo realizará una presentación en clase sobre una práctica o tecnología de ingeniería de software aplicada en el proyecto. Se coordinará el tema y la fecha de presentación con el docente.
+
+Mostrar ejemplos de aplicación en el proyecto y recomendaciones útiles para los otros equipos. Duración aproximada de la presentación: 30 minutos.
+
+
 ### Tecnologías
 * Repositorio GitHub
 * Documentación formato Markdown
@@ -45,11 +51,13 @@ Repositorio Git
 | Creación y uso de repositorios locales y remotos
 | Comandos Git ejecutados desde terminal y desde el IDE
 | 5
+--- | --- | ---
 Versionado
 | Aplicar buenas prácticas de versionado
 | Uso de ramas separadas de 'main'
 | Resumen de commits y evolución del proyecto
 | 5
+--- | --- | ---
 Elicitación
 Evidencia de actividades de investigación
 Referencias a fuentes de información
