@@ -43,8 +43,15 @@ Para la implementación, se deben priorizar las funciones que agregan mayor valo
 
 Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) deben plantearse en MS Teams: Ayudantía FIS (canal: Consultas Proyecto).
 
-### Evaluación entrega 1 (18-oct-2021)
+### Especificación de estilo
+https://material.io/resources/color 
 
+Nombre de la app: a definir
+Colors primary: Light Green 800, secondary: Deep Orange 800
+Font: Roboto
+Icons: filled
+
+### Evaluación entrega 1 (18-oct-2021)
 Área | Objetivos | Puntos
 --- | --- | ---
 | Repositorio Git | | 5
@@ -72,62 +79,51 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 
 
 ### Evaluación entrega 2 (29-nov-2021)
-
 Área | Objetivos | Puntos
 --- | --- | ---
-Construcción
-Implementación de funciones principales (sin la necesidad de persistencia de datos)
-Configuración de plataforma tecnológica para desarrollo y producción
-Documentación del uso de librerías externas (package.json)
-10
-Interfaz de usuario
-Interfaz de usuario web / mobile (responsive)
-Página única con navegación entre secciones
-Implementación: Material Design Web Components
-Aplicar un sistema de diseño y principios de usabilidad
-Cumplimiento de estándar de accesibilidad WCAG
-Seguir especificación de estilo
-5
-Codificación
-IDE Visual Studio Code: configuración común del equipo
-Estándares de codificación Google (HTML, CSS, JavaScript)
-Buenas prácticas de OOP: separación de lógica e interfaz
-Análisis estático de código: mostrar reducción de problemas
-5
-Test unitario
-Test unitarios en Jest
-100% cobertura en clases de dominio
-5
+| Construcción
+| Implementación de funciones principales (sin la necesidad de | | persistencia de datos)
+| Configuración de plataforma tecnológica para desarrollo y | producción
+| | Documentación del uso de librerías externas (package.json)
+| | 10
+| Interfaz de usuario
+| | Interfaz de usuario web / mobile (responsive)
+| | Página única con navegación entre secciones
+| | Implementación: Material Design Web Components
+| | Aplicar un sistema de diseño y principios de usabilidad
+| | Cumplimiento de estándar de accesibilidad WCAG
+| | Seguir especificación de estilo
+| | 5
+| Codificación
+| | IDE Visual Studio Code: configuración común del equipo
+| | Estándares de codificación Google (HTML, CSS, JavaScript)
+| | Buenas prácticas de OOP: separación de lógica e interfaz
+| | Análisis estático de código: mostrar reducción de problemas
+| | 5
+| Test unitario
+| | Test unitarios en Jest
+| | 100% cobertura en clases de dominio
+| | 5
 
-
-En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
+---
+**Code freeze:** En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
 A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
 
-
-Test de sistema
-Realizar test de sistema en un entorno separado del desarrollo
-Generar casos de prueba aplicando técnica partición equivalente
-Detallar sesiones de prueba exploratoria
-5
-Reporte de issues
-Reportar issues (bugs, improvements, missing features) en GitHub 
-Aplicar buenas prácticas de reporte de issues
-Definir labels para tipos de issue y niveles de severidad
-Dejar issues abiertos para correcciones o mejoras futuras
-Sumarizar número de issues reportados por tipo
-Realizar una evaluación global de la calidad
-5
-Reflexión
-Detalle del trabajo individual
-Técnicas aplicadas y aprendizajes
-5
+---
 
 
+| Test de sistema | | 5
+| | Realizar test de sistema en un entorno separado del desarrollo
+| | Generar casos de prueba aplicando técnica partición equivalente
+| | Detallar sesiones de prueba exploratoria
+| Reporte de issues | | 5
+| | Reportar issues (bugs, improvements, missing features) en GitHub 
+| | Aplicar buenas prácticas de reporte de issues
+| | Definir labels para tipos de issue y niveles de severidad
+| | Dejar issues abiertos para correcciones o mejoras futuras
+| | Sumarizar número de issues reportados por tipo
+| | Realizar una evaluación global de la calidad
+| Reflexión | | 5
+| | Detalle del trabajo individual
+| | Técnicas aplicadas y aprendizajes
 
-### Especificación de estilo
-https://material.io/resources/color 
-
-Nombre de la app: a definir
-Colors primary: Light Green 800, secondary: Deep Orange 800
-Font: Roboto
-Icons: filled
