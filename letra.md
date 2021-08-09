@@ -104,6 +104,7 @@ https://material.io/resources/color
 ---
 **Code freeze:** En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
 A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
+
 ---
 
 Área | Objetivos | Puntos
