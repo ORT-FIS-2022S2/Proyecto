@@ -55,17 +55,17 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 | | Uso de ramas separadas de 'main'
 | | Resumen de commits y evolución del proyecto
 | Elicitación | | 5
-| Evidencia de actividades de investigación
-| Referencias a fuentes de información
-| Caracterización de usuarios: User Personas
-| Modelo conceptual del problema
+| | Evidencia de actividades de investigación
+| | Referencias a fuentes de información
+| | Caracterización de usuarios: User Personas
+| | Modelo conceptual del problema
 | Especificación | | 5
-| Definición de requerimientos funcionales y no funcionales
-| User Stories / Use Cases detallados
-| Bocetos de IU
+| | Definición de requerimientos funcionales y no funcionales
+| | User Stories / Use Cases detallados
+| | Bocetos de IU
 | Validación y verificación | | 5
-| Verificar la especificación
-| Validar la solución con personas no involucradas en el proyecto
+| | Verificar la especificación
+| | Validar la solución con personas no involucradas en el proyecto
 | Reflexión | | 5
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
