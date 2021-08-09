@@ -46,10 +46,10 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 ### Especificación de estilo
 https://material.io/resources/color 
 
-Nombre de la app: a definir
-Colors primary: Light Green 800, secondary: Deep Orange 800
-Font: Roboto
-Icons: filled
+* Nombre de la app: a definir
+* Colors primary: Light Green 800, secondary: Deep Orange 800
+* Font: Roboto
+* Icons: filled
 
 ### Evaluación entrega 1 (18-oct-2021)
 Área | Objetivos | Puntos
@@ -81,37 +81,33 @@ Icons: filled
 ### Evaluación entrega 2 (29-nov-2021)
 Área | Objetivos | Puntos
 --- | --- | ---
-| Construcción
-| Implementación de funciones principales (sin la necesidad de | | persistencia de datos)
-| Configuración de plataforma tecnológica para desarrollo y | producción
+| Construcción | | 5
+| | Implementación de funciones principales (sin la necesidad de persistencia de datos)
+| | Configuración de plataforma tecnológica para desarrollo y producción
 | | Documentación del uso de librerías externas (package.json)
-| | 10
-| Interfaz de usuario
+| Interfaz de usuario | | 5
 | | Interfaz de usuario web / mobile (responsive)
 | | Página única con navegación entre secciones
 | | Implementación: Material Design Web Components
 | | Aplicar un sistema de diseño y principios de usabilidad
 | | Cumplimiento de estándar de accesibilidad WCAG
 | | Seguir especificación de estilo
-| | 5
-| Codificación
+| Codificación | | 5
 | | IDE Visual Studio Code: configuración común del equipo
 | | Estándares de codificación Google (HTML, CSS, JavaScript)
 | | Buenas prácticas de OOP: separación de lógica e interfaz
 | | Análisis estático de código: mostrar reducción de problemas
-| | 5
-| Test unitario
+| Test unitario | | 5
 | | Test unitarios en Jest
 | | 100% cobertura en clases de dominio
-| | 5
 
 ---
 **Code freeze:** En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
 A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
-
 ---
 
-
+Área | Objetivos | Puntos
+--- | --- | ---
 | Test de sistema | | 5
 | | Realizar test de sistema en un entorno separado del desarrollo
 | | Generar casos de prueba aplicando técnica partición equivalente
@@ -126,4 +122,10 @@ A partir de este punto solo se realizan actividades de test de sistema, reporte 
 | Reflexión | | 5
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
+| Presentación en clase | | 5
+| | Práctica o tecnología de ingeniería de software aplicada en el proyecto
+| | Mostrar ejemplos de aplicación y recomendaciones útiles
+| | Duración aproximada de media hora
+
+
 
