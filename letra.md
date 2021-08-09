@@ -47,36 +47,29 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 
 Área | Objetivos | Puntos
 --- | --- | ---
-| Repositorio Git
+| Repositorio Git | | 5
 | | Creación y uso de repositorios locales y remotos
 | | Comandos Git ejecutados desde terminal y desde el IDE
-| | | 5
---- | --- | ---
-Versionado
-| Aplicar buenas prácticas de versionado
-| Uso de ramas separadas de 'main'
-| Resumen de commits y evolución del proyecto
-| 5
---- | --- | ---
-Elicitación
-Evidencia de actividades de investigación
-Referencias a fuentes de información
-Caracterización de usuarios: User Personas
-Modelo conceptual del problema
-5
-Especificación
-Definición de requerimientos funcionales y no funcionales
-User Stories / Use Cases detallados
-Bocetos de IU
-5
-Validación y verificación
-Verificar la especificación
-Validar la solución con personas no involucradas en el proyecto
-5
-Reflexión
-Detalle del trabajo individual
-Técnicas aplicadas y aprendizajes
-5
+| Versionado | | 5
+| | Aplicar buenas prácticas de versionado
+| | Uso de ramas separadas de 'main'
+| | Resumen de commits y evolución del proyecto
+| Elicitación | | 5
+| Evidencia de actividades de investigación
+| Referencias a fuentes de información
+| Caracterización de usuarios: User Personas
+| Modelo conceptual del problema
+| Especificación | | 5
+| Definición de requerimientos funcionales y no funcionales
+| User Stories / Use Cases detallados
+| Bocetos de IU
+| Validación y verificación | | 5
+| Verificar la especificación
+| Validar la solución con personas no involucradas en el proyecto
+| Reflexión | | 5
+| | Detalle del trabajo individual
+| | Técnicas aplicadas y aprendizajes
+
 
 ### Evaluación entrega 2 (29-nov-2021)
 
