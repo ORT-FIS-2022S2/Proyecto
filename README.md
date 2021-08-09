@@ -5,7 +5,11 @@
 | Fundamentos de Ingeniería de Software
 ID M4A - Docente: Alejandro Adorjan
 Estudiantes: 
-Inicio: 30-ago-2021  Fin: 29-nov-2021
+
+Lectura: 30-ago-2021
+Entrega 1: 18-oct-2021
+Code freeze: 22-nov-2021
+Entrega 2: 29-nov-2021
 
 [Letra del proyecto](letra.md)
 
