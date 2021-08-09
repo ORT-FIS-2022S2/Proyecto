@@ -47,10 +47,10 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 
 Área | Objetivos | Puntos
 --- | --- | ---
-Repositorio Git
-| Creación y uso de repositorios locales y remotos
-| Comandos Git ejecutados desde terminal y desde el IDE
-| 5
+| Repositorio Git
+| | Creación y uso de repositorios locales y remotos
+| | Comandos Git ejecutados desde terminal y desde el IDE
+| | | 5
 --- | --- | ---
 Versionado
 | Aplicar buenas prácticas de versionado
