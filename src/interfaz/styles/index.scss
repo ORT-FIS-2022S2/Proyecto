@@ -22,6 +22,7 @@
 @use "@material/menu-surface/mdc-menu-surface";
 @use "@material/menu/mdc-menu";
 @use "@material/select/styles";
+@use "@material/snackbar/mdc-snackbar";
 
 @include card.core-styles;
 @include textfield.core-styles;
@@ -72,4 +73,8 @@ section {
 
 .button {
   margin-top: 1rem;
+}
+
+.mdc-snackbar__actions .mdc-button__label {
+  color: #67daff;
 }

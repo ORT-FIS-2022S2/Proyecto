@@ -3,6 +3,7 @@ import { MDCTopAppBar } from '@material/top-app-bar';
 import { MDCTabBar } from '@material/tab-bar';
 import { MDCTextField } from '@material/textfield';
 import { MDCSelect } from '@material/select';
+import {MDCSnackbar} from '@material/snackbar';
 import ListaPeliculas from '../../dominio/lista-peliculas.mjs';
 import Pelicula from '../../dominio/pelicula.mjs';
 
@@ -35,7 +36,9 @@ addButton.listen('click', () => {
     let newPelicula = new Pelicula(title, genre, year);
     listaPeliculas.agregar(newPelicula);
   } catch (error) {
-    alert(error.message);
+    const snackbar = new MDCSnackbar(document.querySelector('.mdc-snackbar'));
+    snackbar.labelText = error.message;
+    snackbar.open();
   } finally {
     let peliculas = listaPeliculas.getPeliculas();
     console.log(peliculas);
