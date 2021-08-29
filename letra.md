@@ -1,4 +1,4 @@
-## Proyecto 202108 a definir
+## Proyecto 202108 MisGastos
 Objetivo general: aprender las actividades fundamentales de la ingeniería de software, mediante el desarrollo de un proyecto real con objetivos de calidad y tecnologías en el estado del arte.
 
 Objetivos entrega 1
@@ -36,7 +36,8 @@ Mostrar ejemplos de aplicación en el proyecto y recomendaciones útiles para lo
 * Test unitario Jest
 
 ### Desafío del proyecto
-Verdulista es una aplicación que permite realizar una lista de compras de frutas y verduras a una familia.
+MisGastos es una aplicación que permite llevar registro de los gastos de una persona con el objetivo de monitorear sus consumos y mejorar sus finanzas personales.
+
 Se trata de un desafío abierto, se deben explorar funciones que sean de valor para los usuarios.
 La investigación del problema y delimitación del alcance es responsabilidad de los estudiantes. 
 Para la implementación, se deben priorizar las funciones que agregan mayor valor a los usuarios.
@@ -46,8 +47,8 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 ### Especificación de estilo
 https://material.io/resources/color 
 
-* Nombre de la app: a definir
-* Colors primary: Light Green 800, secondary: Deep Orange 800
+* Nombre de la app: MisGastos
+* Colors primary: Deep Purple 700, secondary: Teal 700
 * Font: Roboto
 * Icons: filled
 
