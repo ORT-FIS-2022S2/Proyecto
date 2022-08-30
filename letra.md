@@ -1,4 +1,4 @@
-## Proyecto 202108 MisGastos
+## Proyecto FIS
 Objetivo general: aprender las actividades fundamentales de la ingeniería de software, mediante el desarrollo de un proyecto real con objetivos de calidad y tecnologías en el estado del arte.
 
 Objetivos entrega 1
@@ -36,7 +36,6 @@ Mostrar ejemplos de aplicación en el proyecto y recomendaciones útiles para lo
 * Test unitario Jest
 
 ### Desafío del proyecto
-MisGastos es una aplicación que permite llevar registro de los gastos de una persona con el objetivo de monitorear sus consumos y mejorar sus finanzas personales.
 
 Se trata de un desafío abierto, se deben explorar funciones que sean de valor para los usuarios.
 La investigación del problema y delimitación del alcance es responsabilidad de los estudiantes. 
@@ -47,12 +46,12 @@ Las consultas del obligatorio (sobre alcance de la letra o sobre tecnologías) d
 ### Especificación de estilo
 https://material.io/resources/color 
 
-* Nombre de la app: MisGastos
-* Colors primary: Deep Purple 700, secondary: Teal 700
+* Nombre de la app: Mundial
+* Colors primary: Green 900, secondary: Light Blue 700
 * Font: Roboto
 * Icons: filled
 
-### Evaluación entrega 1 (18-oct-2021)
+### Evaluación entrega 1
 Área | Objetivos | Puntos
 --- | --- | ---
 | Repositorio Git | | 5
@@ -62,6 +61,7 @@ https://material.io/resources/color
 | | Aplicar buenas prácticas de versionado
 | | Uso de ramas separadas de 'main'
 | | Resumen de commits y evolución del proyecto
+
 | Elicitación | | 5
 | | Evidencia de actividades de investigación
 | | Referencias a fuentes de información
@@ -74,12 +74,13 @@ https://material.io/resources/color
 | Validación y verificación | | 5
 | | Verificar la especificación
 | | Validar la solución con personas no involucradas en el proyecto
+
 | Reflexión | | 5
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
 
 
-### Evaluación entrega 2 (29-nov-2021)
+### Evaluación entrega 2
 Área | Objetivos | Puntos
 --- | --- | ---
 | Construcción | | 5
@@ -103,8 +104,8 @@ https://material.io/resources/color
 | | 100% cobertura en clases de dominio
 
 ---
-**Code freeze:** En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
-A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
+**Code freeze:** En la semana previa a la entrega final se debe congelar el desarrollo.
+A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación de informes.
 
 ---
 
@@ -121,9 +122,11 @@ A partir de este punto solo se realizan actividades de test de sistema, reporte 
 | | Dejar issues abiertos para correcciones o mejoras futuras
 | | Sumarizar número de issues reportados por tipo
 | | Realizar una evaluación global de la calidad
-| Reflexión | | 5
+
+| Reflexión entrega 2 | | 5
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
+
 | Presentación en clase | | 5
 | | Práctica o tecnología de ingeniería de software aplicada en el proyecto
 | | Mostrar ejemplos de aplicación y recomendaciones útiles

@@ -1,3 +1,3 @@
 Carpeta para evidencia de investigación
 
-Vincular y explicar desde el informe académico
+Vincular y explicar desde documento de requerimientos
