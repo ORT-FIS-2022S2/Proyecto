@@ -39,5 +39,6 @@ Detallar cantidad e incluir ejemplos significativos
 100% cobertura en clases de dominio
 
 
-| En la semana previa a la entrega se debe congelar el desarrollo (22-nov-2021).
-A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y generación del informe académico.
+> ## Code freeze
+> En la semana previa a la entrega final se debe congelar el desarrollo.
+> A partir de este punto solo se realizan actividades de test de sistema, reporte de issues y documentación.
