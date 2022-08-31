@@ -38,12 +38,15 @@ addButton.listen('click', () => {
   let title = textFieldTitle.value;
   let year = textFieldYear.value;
   let genre = selectGenre.value;
+  borrarCampos();
+
   try {
     let newPelicula = new Pelicula(title, genre, year);
     listaPeliculas.agregar(newPelicula);
     const snackbar = new MDCSnackbar(document.querySelector('.mdc-snackbar'));
     snackbar.labelText = 'Pelicula agregada correctamente';
     snackbar.open();
+
   } catch (error) {
     const snackbar = new MDCSnackbar(document.querySelector('.mdc-snackbar'));
     snackbar.labelText = error.message;
@@ -52,15 +55,14 @@ addButton.listen('click', () => {
     let peliculas = listaPeliculas.getPeliculas();
     console.log(peliculas);
     cargarListaPeliculas();
-    borrarCampos();
 
   }
 })
 
 function borrarCampos(){
-  textFieldTitle.innerHTML = "";
-  textFieldYear.innerHTML = "";
-  selectGenre.innerHTML = "";
+  textFieldTitle.value = "";
+  textFieldYear.value = "";
+  selectGenre.value = "";
 }
 
 function cargarListaPeliculas(){
