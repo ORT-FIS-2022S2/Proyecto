@@ -52,9 +52,16 @@ addButton.listen('click', () => {
     let peliculas = listaPeliculas.getPeliculas();
     console.log(peliculas);
     cargarListaPeliculas();
+    borrarCampos();
 
   }
 })
+
+function borrarCampos(){
+  textFieldTitle.innerHTML = "";
+  textFieldYear.innerHTML = "";
+  selectGenre.innerHTML = "";
+}
 
 function cargarListaPeliculas(){
   let peliculas = listaPeliculas.getPeliculas();
