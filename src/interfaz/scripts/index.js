@@ -7,6 +7,12 @@ import {MDCSnackbar} from '@material/snackbar';
 import ListaPeliculas from '../../dominio/lista-peliculas.mjs';
 import Pelicula from '../../dominio/pelicula.mjs';
 
+const selector = '.mdc-button, .mdc-icon-button, .mdc-card__primary-action';
+const ripples = [].map.call(document.querySelectorAll(selector), function(el) {
+  return new MDCRipple(el);
+});
+
+
 const listaPeliculas = new ListaPeliculas();
 
 const topAppBarElement = document.querySelector('.mdc-top-app-bar');
@@ -35,6 +41,9 @@ addButton.listen('click', () => {
   try {
     let newPelicula = new Pelicula(title, genre, year);
     listaPeliculas.agregar(newPelicula);
+    const snackbar = new MDCSnackbar(document.querySelector('.mdc-snackbar'));
+    snackbar.labelText = 'Pelicula agregada correctamente';
+    snackbar.open();
   } catch (error) {
     const snackbar = new MDCSnackbar(document.querySelector('.mdc-snackbar'));
     snackbar.labelText = error.message;
@@ -42,5 +51,56 @@ addButton.listen('click', () => {
   } finally {
     let peliculas = listaPeliculas.getPeliculas();
     console.log(peliculas);
+    cargarListaPeliculas();
+
   }
 })
+
+function cargarListaPeliculas(){
+  let peliculas = listaPeliculas.getPeliculas();
+  let lista = document.getElementById('peliculas');
+  lista.innerHTML = "";
+
+  for(let i = 0; i < peliculas.length; i++){
+    let pelicula = peliculas[i];
+
+    //div principal
+    let fila = document.createElement('div');
+    fila.className = "mdc-card";
+
+    //div primary action
+    let div = document.createElement('div');
+    div.className = "mdc-card__primary-action";
+
+    //info pelicula
+    let informacion = document.createElement("h2")
+    informacion.innerHTML = pelicula.titulo + " (" + pelicula.anio + ")" + " - " + pelicula.genero;
+    div.appendChild(informacion);
+
+    //div mdc-card media square
+    let divMediaSquare = document.createElement('div');
+    divMediaSquare.className = "mdc-card__media mdc-card__media--square";
+    div.appendChild(divMediaSquare);
+
+    //div mdc-card media content
+    let divMediaContent = document.createElement('div');
+    divMediaContent.className = "mdc-card__media-content";
+    divMediaSquare.appendChild(divMediaContent);
+
+    //div mdc ripple
+    let divRipple = document.createElement('div');
+    divRipple.className = "mdc-card__ripple";
+    div.appendChild(divRipple);
+
+    fila.appendChild(div);
+    lista.appendChild(fila);
+
+    let saltoLinea = document.createElement('br');
+    lista.appendChild(saltoLinea);
+    
+    
+
+  }
+}
+
+

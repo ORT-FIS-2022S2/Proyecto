@@ -77,3 +77,18 @@ section {
 .mdc-snackbar__actions .mdc-button__label {
   color: #67daff;
 }
+
+
+
+.mdc-card {
+  height: 435px;
+  width: 700px;
+  margin: 0 auto;
+
+  
+}
+
+.mdc-card__media-content {
+  background-image: url("https://www.nationalgeographic.com.es/medio/2019/05/30/alan-turing_8c5d84c7_1200x630.jpg");
+  background-size: contain;
+}
