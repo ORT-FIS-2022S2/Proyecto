@@ -71,11 +71,11 @@ https://material.io/resources/color
 | | Definición de requerimientos funcionales y no funcionales
 | | User Stories / Use Cases detallados
 | | Bocetos de IU
-| Validación y verificación | | 5
+| Validación y verificación | | 3
 | | Verificar la especificación
 | | Validar la solución con personas no involucradas en el proyecto
 
-| Reflexión | | 5
+| Reflexión | | 2
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
 
@@ -111,19 +111,19 @@ A partir de este punto solo se realizan actividades de test de sistema, reporte 
 
 Área | Objetivos | Puntos
 --- | --- | ---
-| Test de sistema | | 5
+| Test de sistema | | 3
 | | Realizar test de sistema en un entorno separado del desarrollo
 | | Generar casos de prueba aplicando técnica partición equivalente
 | | Detallar sesiones de prueba exploratoria
-| Reporte de issues | | 5
+| Reporte de issues | | 2
 | | Reportar issues (bugs, improvements, missing features) en GitHub 
 | | Aplicar buenas prácticas de reporte de issues
 | | Definir labels para tipos de issue y niveles de severidad
-| | Dejar issues abiertos para correcciones o mejoras futuras
+| Informe de testing | | 3
 | | Sumarizar número de issues reportados por tipo
 | | Realizar una evaluación global de la calidad
 
-| Reflexión entrega 2 | | 5
+| Reflexión entrega 2 | | 2
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
 
