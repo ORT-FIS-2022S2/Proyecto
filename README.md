@@ -6,6 +6,8 @@
 ID M4A - Docente:_____
 Estudiantes: ____
 
+[Letra](letra.md)
+
 [Instalación](install.md)
 
 [Procedimiento de entrega](proc_entrega.md)
