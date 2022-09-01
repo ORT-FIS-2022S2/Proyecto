@@ -62,6 +62,7 @@ https://material.io/resources/color
 | | Uso de ramas separadas de 'main'
 | | Resumen de commits y evolución del proyecto
 
+Área | Objetivos | Puntos
 --- | --- | ---
 | Elicitación | | 5
 | | Evidencia de actividades de investigación
@@ -76,6 +77,7 @@ https://material.io/resources/color
 | | Verificar la especificación
 | | Validar la solución con personas no involucradas en el proyecto
 
+Área | Objetivos | Puntos
 --- | --- | ---
 | Reflexión | | 2
 | | Detalle del trabajo individual
@@ -125,11 +127,13 @@ A partir de este punto solo se realizan actividades de test de sistema, reporte 
 | | Sumarizar número de issues reportados por tipo
 | | Realizar una evaluación global de la calidad
 
+Área | Objetivos | Puntos
 --- | --- | ---
 | Reflexión entrega 2 | | 2
 | | Detalle del trabajo individual
 | | Técnicas aplicadas y aprendizajes
 
+Área | Objetivos | Puntos
 --- | --- | ---
 | Presentación en clase | | 5
 | | Práctica o tecnología de ingeniería de software aplicada en el proyecto
