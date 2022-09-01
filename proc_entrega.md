@@ -10,7 +10,7 @@ Para la corrección solo se consideran los elementos de la rama ‘main’. No s
 
 ### Informe académico
 
-El informe académico de cada entrega debe realizarse en un archivo README.md utilizando el estándar Markdown (https://github.github.com/gfm/). El informe académico debe incluir las mismas secciones de la letra. Desde el archivo README.md se pueden incluir links a otros archivos del repositorio. 
+La documentación y el informe académico de cada entrega debe realizarse en archivos utilizando el formato Markdown (https://github.github.com/gfm/). Los informes deben incluir las mismas secciones de la letra. Desde los archivos formato Markdown se pueden incluir links a otros archivos del repositorio. 
 
 ### Identificación
 
@@ -21,4 +21,4 @@ El archivo README.md debe contener información identificatoria en el encabezado
 
 IMPORTANTE. Para entregar todos los obligatorios los estudiantes deben estar inscriptos y formar un equipo en el sistema de gestión de la Universidad. Antes de la fecha de cierre se debe subir un archivo al sistema. Si no se cumple con estos requisitos administrativos no se puede corregir la entrega.
 
-La versión final del archivo README.md debe integrarse a la rama ‘main’ y subirse en formato pdf al sistema de gestión de la Universidad. 
+La versión final del informe académico debe integrarse a la rama ‘main’ y subirse en formato pdf al sistema de gestión de la Universidad. 
